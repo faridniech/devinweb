@@ -15,7 +15,7 @@ Developed by
 Installation
 =====
     
-## Download or Clone this repository
+ Download or Clone this repository
     git clone https://github.com/faridniech/devinweb.git
 
 ## Create a new database
@@ -28,7 +28,9 @@ Installation
 ## Launch web serve
     php artisan serve
     
-
+'''
+lfkdjfkjdkjf
+'''
 
 
 
