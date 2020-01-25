@@ -1,7 +1,7 @@
 
 DEVINWEB TEST
 =====
-
+    
 
 Simple Laravel Web Application with CRUD (Create, Read, Update, Delete) functions.
 
@@ -26,8 +26,11 @@ Installation
     php artisan migrate
     php artisan storage:link
     
-- Launch web server
+- Launch web serve
+
+
     php artisan serve
+    
 
 
 
