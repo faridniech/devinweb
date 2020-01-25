@@ -6,18 +6,13 @@ DEVINWEB TEST
 Simple Laravel Web Application with CRUD (Create, Read, Update, Delete) functions.
 
 
-Developed by
-=====
-
-- **[Farid Niech](https://www.linkedin.com/in/farid-niech/)**
-
 
 Installation
 =====
     
  - Download or Clone this repository
  
-    git clone https://github.com/faridniech/devinweb.git
+        git clone https://github.com/faridniech/devinweb.git
 
  - Create a new database
  - Copy or rename file .env.example to .env, and edit the file to change the attributes for database to your database   configurations    (host,username,password etc)
@@ -32,5 +27,11 @@ Installation
         php artisan serve
 
 
+
+
+Developed by
+=====
+
+- **[Farid Niech](https://www.linkedin.com/in/farid-niech/)**
 
 
