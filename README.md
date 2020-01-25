@@ -14,6 +14,7 @@ Developed by
 
 Installation
 =====
+    cd ..
 
 - Download or Clone this repository
 
@@ -31,6 +32,7 @@ Installation
 
     php artisan serve
     
+
 
 
 
